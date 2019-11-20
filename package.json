@@ -1,0 +1,30 @@
+{
+  "name": "project-a",
+  "version": "1.0.0",
+  "description": "Um simples bot para o discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Xavas",
+  "contributors": [
+    {
+      "name": "",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "*",
+    "dotenv": "^6.0.0",
+    "duck-duck-scrape": "^1.0.3",
+    "enmap": "*",
+    "google-scraper": "^1.1.2",
+    "moment": "^2.22.0"
+  }
+}
