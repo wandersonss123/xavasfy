@@ -25,6 +25,6 @@
     "duck-duck-scrape": "^1.0.3",
     "enmap": "*",
     "google-scraper": "^1.1.2",
-    "moment": "^2.22.0"
+    "moment": "^2.29.2"
   }
 }
